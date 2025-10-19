@@ -16,6 +16,8 @@
 
 Install with:
 ```bash
+git clone https://github.com/nazariihafych/Lifetime-Universe.git
+cd "Lifetime Universe"
 pip install numpy scipy matplotlib
 ```
 
